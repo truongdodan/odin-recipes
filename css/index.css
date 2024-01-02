@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Verdana, "Courier New";
+  width: 1080px;
+  margin: 0px auto;
+  padding: 10px;
+}
+
+h1 {
+  color: #FF9B50;
+  margin-top: 0px;
+}
+
+.center_text {
+  text-align: center;
+}
+
+h2 {
+  color: #FFE15D;
+}
+
+a {
+  text-decoration: none;
+}
+
+.recipelist{
+  margin-top: 20px;
+  margin-left: 50px;
+  padding: 50px;
+}
